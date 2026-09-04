@@ -5,7 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+<<<<<<< HEAD
     "agents>=1.4.0",
     "dotenv>=0.9.9",
     "pydantic>=2.13.5",
+=======
+    "gradio>=6.26.0",
+>>>>>>> maran
 ]
